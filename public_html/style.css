@@ -1,0 +1,22 @@
+header{
+    font-family: arial, georgia;
+    font-size: 1.0rem;
+}
+
+
+
+body {
+    background: #666600;
+    font-family: arial, georgia;
+    color:#000066;
+    font-size: 1.0rem;
+    line-height: 1.1em;
+   }
+   p{
+       margin-bottom: 1.6em;
+   }
+section{
+     width: 85%;
+     max-width: 850px;
+     margin: 0 auto;
+   }
