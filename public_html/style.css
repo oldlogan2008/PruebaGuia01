@@ -1,22 +1,67 @@
-header{
-    font-family: arial, georgia;
-    font-size: 1.0rem;
+.header{
+    font-family: arial, georgia, times;
+    font-size: 1rem;
 }
 
-
-
 body {
-    background: #666600;
-    font-family: arial, georgia;
-    color:#000066;
-    font-size: 1.0rem;
-    line-height: 1.1em;
+    background: #FFFFFF;
+    font-family: arial, georgia, times;
+    color:#000333;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+    margin: 0;
+   }
+   h1{
+       font-size: 1.3rem;
+       line-height: 1.1em;
+       
    }
    p{
-       margin-bottom: 1.6em;
+       margin-bottom: 1.3em;
+   }
+   .container {
+       width: 85%;
+       max-width: 850px;
+       margin: 0 auto;
+   }
+   logo-nav-container{
+       
    }
 section{
      width: 85%;
      max-width: 850px;
      margin: 0 auto;
-   }
+   }.container {
+
+}
+
+.header {
+    background: #333;
+    color: white;
+    padding:  1.4rem 0;
+
+}
+        
+  .header a{
+    color: white;
+    text-decoration: none;
+    }
+    
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        
+    
+}
+.footer {
+    background: #333;
+    padding: 4rem 0;
+    text-aling: center;
+    margin-top: 6rem; 
+   
+}
+
+.main {
+
+}
